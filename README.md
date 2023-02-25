@@ -9,6 +9,4 @@ This is an Chatting app
 ![3](https://user-images.githubusercontent.com/124857610/221346526-aacf328d-7ad6-4642-b88c-8524eba3a394.jpg)
 ![4](https://user-images.githubusercontent.com/124857610/221346529-559f6508-71fa-403d-8770-5f6ca0d1a787.jpg)
 ![6](https://user-images.githubusercontent.com/124857610/221346530-a9c32d1d-bce9-4a9b-a966-a1544fcd83a5.jpg)
-![7](https://user-images.![5](https://user-images.githubusercontent.com/124857610/221346550-b82afe3a-5157-48a2-a87f-5770c94e780f.jpg)
-
 ![7](https://user-images.githubusercontent.com/124857610/221346577-f419378d-70e7-4b5a-bde1-71e34eda3f71.jpg)
