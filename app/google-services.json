@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "436129598606",
+    "project_id": "textme-22",
+    "storage_bucket": "textme-22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436129598606:android:f5bf58e41ed89409cdcddf",
+        "android_client_info": {
+          "package_name": "com.pspr.textme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436129598606-d876j2r5tfkbtlb9dlua41a06k02eh6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pspr.textme",
+            "certificate_hash": "acadecac3c907f0bed1f3885a53305dab8b6cff9"
+          }
+        },
+        {
+          "client_id": "436129598606-6lb8p5bcnj6dvcnb9utnmlobvjglipqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS3MHgQzasUcMQzEdhB90E6xZ-IeTa9dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436129598606-6lb8p5bcnj6dvcnb9utnmlobvjglipqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
